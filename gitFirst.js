@@ -12,4 +12,4 @@ console.log('지우면 -1이 뜨고요 추가하면 +1이 떠요') //기차지�
 
 console.log('test해볼게요')
 
-console.log('다시해보게')
+console.log('다시해보게');
