@@ -1,4 +1,4 @@
-let first=1;
+//여기 부분 지워봤어요
 let et = 2;
 console.log('??')
 console.log('again')
@@ -6,3 +6,4 @@ console.log('again')
 console.log('배고파요') 
 console.log('위대한생명창조의역사가시작된다아아') //넘버 짱 넘버 최고~
 console.log('console창만 계속 추가함') //당연함 이게 젤 간단함
+console.log('여기는 추가해봤고요')
