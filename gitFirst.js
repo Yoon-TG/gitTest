@@ -7,3 +7,4 @@ console.log('배고파요')
 console.log('위대한생명창조의역사가시작된다아아') //넘버 짱 넘버 최고~
 console.log('console창만 계속 추가함') //당연함 이게 젤 간단함
 console.log('여기는 추가해봤고요')
+console.log('지우면 -1이 뜨고요 추가하면 +1이 떠요') //기차지나갑니다
