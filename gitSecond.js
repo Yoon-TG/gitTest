@@ -1,0 +1,1 @@
+let insecond = 3; //gitSecond 파일 만듦
